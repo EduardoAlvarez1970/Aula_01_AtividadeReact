@@ -44,22 +44,12 @@ main {
     left: 337px;
 }
 
-/* ok*/
-
 #main-text {
-   /* display: flex;
-    flex-direction: column;*/
     width: 494px;
     height: 40px;
     top: 334px;
-    left: 265px;
-    /*justify-content: center;
-    align-items: center;*/
-    /*color: #3F3D56;
-    text-shadow: 0px 4px 4px 0px #00000040;*/  
+    left: 265px; 
 }
-
-
 
 h1 {
     font-family: Dosis;
@@ -134,56 +124,41 @@ hr {
     height: 15.17px;
     top: 630px;
     left: 376px;
-
     font-family: Open Sans;
     font-size: 15px;
     font-weight: 700;
     line-height: 22px;
     letter-spacing: 0em;
     text-align: center;
-
     color: #3F3D56;
-
-
 }
+
 .ofertas{
     width: 57px;
     height: 15.17px;
     top: 630px;
     left: 484px;
-
     font-family: Open Sans;
     font-size: 15px;
     font-weight: 700;
     line-height: 22px;
     letter-spacing: 0em;
     text-align: center;
-
     color: #3F3D56;
-
-
-
-
 }
-.contato{
 
+.contato{
     width: 61px;
     height: 15.17px;
     top: 630px;
     left: 583px;
-
     font-family: Open Sans;
     font-size: 15px;
     font-weight: 700;
     line-height: 22px;
     letter-spacing: 0em;
     text-align: center;
-
     color: #3F3D56;
-
-
-
-
 }
 
 a {
@@ -199,5 +174,4 @@ a {
     left: 1024px;
     rotate: -180 deg;
     background: linear-gradient(0deg, #FFFFFF, #FFFFFF), linear-gradient(0deg, #3F3D56, #3F3D56);
-
 }
