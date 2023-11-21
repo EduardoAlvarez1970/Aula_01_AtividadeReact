@@ -1,4 +1,5 @@
 import "./styles.css"
+
 import image from "../../images/img1.jpg";
 import onda from "../../images/Wave.png";
 
