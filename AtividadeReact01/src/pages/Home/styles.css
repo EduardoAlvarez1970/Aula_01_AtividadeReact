@@ -145,6 +145,7 @@ hr {
     letter-spacing: 0em;
     text-align: center;
     color: #3F3D56;
+    
 }
 
 .contato{
@@ -159,11 +160,13 @@ hr {
     letter-spacing: 0em;
     text-align: center;
     color: #3F3D56;
+    padding: 6px 28px;
 }
 
 a {
     text-decoration: none; 
-    display: inline-block;  
+    display: inline-block; 
+     
 }
 
 
